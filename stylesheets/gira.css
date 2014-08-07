@@ -7,6 +7,9 @@
 .marketing-section-enterprise {
 		max-height:460px;
 }
+.marketing-section-signup {
+		border:0;
+}
 #contributions-calendar .contrib-details span.lbl div.blankslate {
     background-color:white;
     border-left: 1px solid #DDD;
